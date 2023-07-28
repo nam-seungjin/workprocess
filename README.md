@@ -87,6 +87,9 @@ filter:gratscale(0);
                 $(this).children('.pop-box').toggle(0);
             })
 
-            ##### 작업기간
-            기간은 1주일 소요 됐습니다.
+            
+            
+            
+##### 작업기간
+기간은 1주일 소요 됐습니다.
 
