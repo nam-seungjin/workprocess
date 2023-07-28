@@ -86,3 +86,7 @@ filter:gratscale(0);
             $('#travel article').click(function(){
                 $(this).children('.pop-box').toggle(0);
             })
+
+            ##### 작업기간
+            기간은 1주일 소요 됐습니다.
+
