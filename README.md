@@ -1,4 +1,4 @@
-[사이트바로가기](https://nam-seungjin.github.io/report08)
+[사이트바로가기](https://nam-seungjin.github.io/tourist)
 
 # workprocess
 
